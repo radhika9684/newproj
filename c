@@ -1,4 +1,5 @@
 hello
 hello
 third file 
-my ne line for checking
+my new line for checking
+my new testing
