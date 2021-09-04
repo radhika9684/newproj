@@ -6,4 +6,8 @@ changes
 
 changes 
 hello this is my first day to learn git
+<<<<<<< HEAD
 second line added for checking
+=======
+now second line started learning more
+>>>>>>> 938a3d58510e84d4b4bfbbb2c49bb15fdf3b7f53
